@@ -7,3 +7,4 @@ This firmware is merged from Blueretro source firmware ([darthcloud](https://git
 3) Connect Blueretro to computer using micro usb cable. Select proper COM port for your computer. And choose the latest BlueRetro firmware.  
 
 4) Click Flash NodeMCU. Then wait for the burning to complete  
+img/bootloader.png
