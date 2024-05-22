@@ -1,4 +1,4 @@
-# Bluereteo-PS
+# Blueretro-PS
 This firmware is merged from Blueretro source firmware ([darthcloud](https://github.com/darthcloud/BlueRetro/releases))
 1. Download the [NodeMCU-PyFlasher](https://github.com/marcelstoer/nodemcu-pyflasher/releases) and Blueretro firmware.
 
